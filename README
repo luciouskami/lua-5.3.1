@@ -4,3 +4,5 @@ This is Lua 5.3.1, released on 10 Jun 2015.
 For installation instructions, license details, and
 further information about Lua, see doc/readme.html.
 
+用VS的命令提示符工具执行 src\Build.bat即可编译
+生成的文件可以在lua5.3bin文件夹下找到
